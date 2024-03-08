@@ -1,0 +1,19 @@
+#loginForm {
+    text-align: center;
+    width: 400px;
+    margin-top: 40px;
+
+    .input-user {
+        margin-bottom: 20px;
+    }
+
+    .labelLoginOther {
+        text-align: center;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+
+    .loginGG:hover {
+        border-color: rgb(26, 131, 250);
+    }
+}
